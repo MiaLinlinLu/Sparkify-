@@ -1,5 +1,10 @@
 # Sparkify 流失用户预测
 
+## 文档介绍
+Sparkify-zh.ipynb: Jupyter Notebook Code of this project
+Sparkify-zh.html: html version of Sparkify-zh.ipynb
+json.zip: 数据集
+
 ## 数据集介绍
 
 * 该数据集（128MB）是Sparikify在2018年10月1日-12月3日的用户日志，其中记录内容包括：artist, auth, firstName, gender, itemInSession, lastName, length, level, location, method, page, registration, sessionId, song, status, ts, userAgent, userId

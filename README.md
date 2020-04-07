@@ -6,7 +6,6 @@ Sparkify-zh.html: html version of Sparkify-zh.ipynb
 json.zip: 数据集
 
 ## 博客文章
-https://medium.com/@pku600/sparkify-%E6%B5%81%E5%A4%B1%E7%94%A8%E6%88%B7%E9%A2%84%E6%B5%8B-4683c7d39830
 https://www.jianshu.com/p/2c7ba8a9e903
 
 ## 数据集介绍
